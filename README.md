@@ -18,6 +18,8 @@
 ## 📌 Projetos em Destaque
 🔹 [Projetos em C](https://github.com/vinitegi/Projetos_Praticos-C) – Programas práticos para treino de lógica e estruturas de dados  
 🔹 [Projetos em C#](https://github.com/vinitegi/CSharp-Projects) – Repositório com projetos e exercícios em C#, mostrando minha evolução na linguagem e uso do .NET  
+🔹 [Projetos em Java](https://github.com/vinitegi/Java-Projects) - Repositório com projetos e exercícios em Java, mostrando minha evolução na linguagem e uso de Frameworks
+
 
 ---
 
