@@ -26,8 +26,7 @@
 ## 📊 Estatísticas do GitHub
 
 
-![Tegi GitHub stats](https://github-readme-stats.vercel.app/api?username=vinitegi&show_icons=true&theme=tokyonight)
-
+![Tegi GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinitegi&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitegi&layout=compact&theme=tokyonight)
 
 
